@@ -111,3 +111,7 @@ after it in the list. For example:
 The first number 5 is a local maximum value, because 5>4 and 5>2. Same as 7 and 6.
 ?-local_maximum([3,2,3,4,5,2,7,3,6,5], L).
 L=[5, 7, 6].
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shariq1989/cs396_prolog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
